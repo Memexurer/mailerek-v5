@@ -1,0 +1,5 @@
+sqlalchemy
+websockets
+aiosmtpd
+mail-parser
+flask
